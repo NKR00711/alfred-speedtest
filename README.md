@@ -1,4 +1,4 @@
-# Best Alfred Workflow - Internet Speedtest
+# Best Alfred Workflow for Speedtest
 Test the Upload/Download speed of the network you're currently on.
 
 ## Installation
