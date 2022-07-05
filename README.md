@@ -3,7 +3,8 @@ Test the Upload/Download speed of the network you're currently on.
 
 ## Installation
 
-1. Install `speedtest` on your system using homebrew: `brew tap teamookla/speedtest`
+1. Install `speedtest` on your system using homebrew: 
+`brew tap teamookla/speedtest`
 `brew update`
 `brew install speedtest --force`
 `.
