@@ -7,7 +7,7 @@ Test the Upload/Download speed of the wifi you're currently on.
 `brew update`
 `brew install speedtest --force`
 `.
-2. Download the [workflow](https://github.com/NKR00711/alfred-speedtest/blob/master/Speedtest.alfredworkflow).
+2. Download the [workflow](https://github.com/NKR00711/alfred-speedtest/raw/main/Speedtest.alfredworkflow).
 3. Double click the downloaded workflow to install it in Alfred.
 
 ## Usage
